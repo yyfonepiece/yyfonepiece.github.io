@@ -1,0 +1,1018 @@
+[Wed Dec 05 13:54:32.251494 2018] [ssl:warn] [pid 9928:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 13:54:33.111543 2018] [ssl:warn] [pid 9928:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 13:54:33.112544 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Dec 05 13:54:33.112544 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Dec 05 13:54:33.112544 2018] [core:notice] [pid 9928:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Dec 05 13:54:33.142545 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00418: Parent: Created child process 7248
+[Wed Dec 05 13:54:34.537625 2018] [ssl:warn] [pid 7248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 13:54:35.202663 2018] [ssl:warn] [pid 7248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 13:54:35.235665 2018] [mpm_winnt:notice] [pid 7248:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 05 14:09:16.654079 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Dec 05 14:09:17.405122 2018] [ssl:warn] [pid 9928:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 14:09:17.405122 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Dec 05 14:09:17.405122 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Dec 05 14:09:17.405122 2018] [core:notice] [pid 9928:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Dec 05 14:09:17.553131 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00418: Parent: Created child process 1376
+[Wed Dec 05 14:09:18.657194 2018] [mpm_winnt:notice] [pid 7248:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Dec 05 14:09:18.942210 2018] [ssl:warn] [pid 1376:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 14:09:19.595247 2018] [ssl:warn] [pid 1376:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 05 14:09:19.599248 2018] [mpm_winnt:notice] [pid 1376:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 05 14:11:43.464476 2018] [php7:error] [pid 1376:tid 932] [client ::1:58571] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:17.455852 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:18.533914 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:18.718925 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:18.890934 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:19.064944 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:19.974996 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:20.159007 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:20.332017 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:20.502027 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:20.664036 2018] [php7:error] [pid 1376:tid 932] [client ::1:58671] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:13:26.670379 2018] [php7:error] [pid 1376:tid 924] [client ::1:58672] script 'E:/phpdev/Apache24/htdocs/index.php' not found or unable to stat
+[Wed Dec 05 14:21:16.642260 2018] [php7:warn] [pid 1376:tid 916] [client ::1:59317] PHP Warning:  require(E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php): failed to open stream: No such file or directory in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:16.642260 2018] [php7:error] [pid 1376:tid 916] [client ::1:59317] PHP Fatal error:  require(): Failed opening required 'E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php' (include_path='.;C:\\php\\pear') in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:21.470536 2018] [php7:warn] [pid 1376:tid 924] [client ::1:59318] PHP Warning:  require(E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php): failed to open stream: No such file or directory in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:21.470536 2018] [php7:error] [pid 1376:tid 924] [client ::1:59318] PHP Fatal error:  require(): Failed opening required 'E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php' (include_path='.;C:\\php\\pear') in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:22.342586 2018] [php7:warn] [pid 1376:tid 916] [client ::1:59320] PHP Warning:  require(E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php): failed to open stream: No such file or directory in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:22.342586 2018] [php7:error] [pid 1376:tid 916] [client ::1:59320] PHP Fatal error:  require(): Failed opening required 'E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php' (include_path='.;C:\\php\\pear') in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:22.535597 2018] [php7:warn] [pid 1376:tid 924] [client ::1:59322] PHP Warning:  require(E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php): failed to open stream: No such file or directory in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:22.535597 2018] [php7:error] [pid 1376:tid 924] [client ::1:59322] PHP Fatal error:  require(): Failed opening required 'E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php' (include_path='.;C:\\php\\pear') in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:27.592887 2018] [php7:warn] [pid 1376:tid 916] [client ::1:59324] PHP Warning:  require(E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php): failed to open stream: No such file or directory in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:21:27.592887 2018] [php7:error] [pid 1376:tid 916] [client ::1:59324] PHP Fatal error:  require(): Failed opening required 'E:\\phpdev\\Apache24\\htdocs/wp-blog-header.php' (include_path='.;C:\\php\\pear') in E:\\phpdev\\Apache24\\htdocs\\index.php on line 17
+[Wed Dec 05 14:34:21.961178 2018] [php7:notice] [pid 1376:tid 908] [client ::1:57290] \xe6\x9f\xa5\xe8\xaf\xa2SELECT wp_\xe6\x97\xb6\xef\xbc\x8cWordPress\xe6\x95\xb0\xe6\x8d\xae\xe5\xba\x93\xe5\x8f\x91\xe7\x94\x9fUnknown column 'wp_' in 'field list'\xe9\x94\x99\xe8\xaf\xaf, referer: http://localhost/wp-admin/setup-config.php?step=1&language=zh_CN
+[Wed Dec 05 14:36:41.355151 2018] [php7:error] [pid 1376:tid 924] [client ::1:57438] PHP Fatal error:  Uncaught Error: Call to undefined function wp_privacy_anonymize_ip() in E:\\phpdev\\Apache24\\htdocs\\wp-admin\\includes\\class-wp-community-events.php:267\nStack trace:\n#0 E:\\phpdev\\Apache24\\htdocs\\wp-includes\\script-loader.php(1157): WP_Community_Events::get_unsafe_client_ip()\n#1 E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php(286): wp_localize_community_events('')\n#2 E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)\n#3 E:\\phpdev\\Apache24\\htdocs\\wp-includes\\plugin.php(453): WP_Hook->do_action(Array)\n#4 E:\\phpdev\\Apache24\\htdocs\\wp-admin\\admin-header.php(118): do_action('admin_print_scr...')\n#5 E:\\phpdev\\Apache24\\htdocs\\wp-admin\\index.php(100): include('E:\\\\phpdev\\\\Apach...')\n#6 {main}\n  thrown in E:\\phpdev\\Apache24\\htdocs\\wp-admin\\includes\\class-wp-community-events.php on line 267, referer: http://localhost/wp-login.php
+[Wed Dec 05 17:57:30.879462 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 05 17:57:32.907465 2018] [mpm_winnt:notice] [pid 1376:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Dec 05 17:57:32.938665 2018] [mpm_winnt:notice] [pid 9928:tid 268] AH00430: Parent: Child process 1376 exited successfully.
+[Thu Dec 06 08:58:55.418445 2018] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 06 08:58:57.298447 2018] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 06 08:58:57.298447 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Dec 06 08:58:57.328447 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Dec 06 08:58:57.328447 2018] [core:notice] [pid 1984:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Dec 06 08:58:57.408447 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00418: Parent: Created child process 2188
+[Thu Dec 06 08:59:00.560453 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 06 08:59:01.090854 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 06 08:59:01.090854 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 06 09:23:18.398734 2018] [php7:warn] [pid 2188:tid 892] [client ::1:58697] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus[control]=header_image
+[Thu Dec 06 09:23:59.426081 2018] [php7:warn] [pid 2188:tid 892] [client ::1:58697] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 09:50:57.442626 2018] [php7:warn] [pid 2188:tid 924] [client ::1:61626] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 09:51:14.194584 2018] [php7:warn] [pid 2188:tid 924] [client ::1:61644] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 09:51:26.494288 2018] [php7:warn] [pid 2188:tid 892] [client ::1:61666] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 09:51:32.986659 2018] [php7:warn] [pid 2188:tid 892] [client ::1:61666] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 10:01:31.011864 2018] [php7:warn] [pid 2188:tid 892] [client ::1:59452] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bcontrol%5D=header_image&theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dtwentyfifteen
+[Thu Dec 06 10:06:57.112516 2018] [php7:warn] [pid 2188:tid 904] [client ::1:59754] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'quality_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/themes.php
+[Thu Dec 06 10:09:08.160012 2018] [php7:warn] [pid 2188:tid 924] [client ::1:59958] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'quality_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/themes.php?theme=quality
+[Thu Dec 06 10:09:43.411028 2018] [php7:warn] [pid 2188:tid 924] [client ::1:60031] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'quality_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/themes.php
+[Thu Dec 06 10:10:50.336856 2018] [php7:warn] [pid 2188:tid 916] [client ::1:60196] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'quality_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?theme=quality&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php
+[Thu Dec 06 10:38:20.480239 2018] [php7:warn] [pid 2188:tid 900] [client ::1:50024] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/nav-menus.php
+[Thu Dec 06 10:38:50.154936 2018] [php7:warn] [pid 2188:tid 880] [client ::1:50087] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bpanel%5D=nav_menus&return=%2Fwp-admin%2Fnav-menus.php
+[Thu Dec 06 11:11:44.911886 2018] [php7:warn] [pid 2188:tid 904] [client ::1:55206] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/themes.php
+[Thu Dec 06 11:11:59.047694 2018] [php7:warn] [pid 2188:tid 900] [client ::1:55264] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?return=%2Fwp-admin%2Fthemes.php
+[Thu Dec 06 11:12:00.998806 2018] [php7:warn] [pid 2188:tid 900] [client ::1:55264] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?return=%2Fwp-admin%2Fthemes.php
+[Thu Dec 06 17:40:54.822123 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 06 17:40:56.865727 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Dec 06 17:40:58.394530 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Fri Dec 07 08:53:52.796038 2018] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 07 08:53:54.396040 2018] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 07 08:53:54.396040 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Dec 07 08:53:54.416040 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Dec 07 08:53:54.416040 2018] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Dec 07 08:53:54.686041 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2188
+[Fri Dec 07 08:53:58.555448 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 07 08:53:59.101449 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 07 08:53:59.117049 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 07 17:38:41.890490 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 07 17:38:46.133697 2018] [php7:warn] [pid 2188:tid 916] [client ::1:51277] PHP Warning:  mysqli_query(): MySQL server has gone away in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\wp-db.php on line 1924, referer: http://localhost/wp-cron.php?doing_wp_cron=1544175499.8562579154968261718750
+[Fri Dec 07 17:38:46.133697 2018] [php7:warn] [pid 2188:tid 916] [client ::1:51277] PHP Warning:  mysqli_query(): Error reading result set's header in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\wp-db.php on line 1924, referer: http://localhost/wp-cron.php?doing_wp_cron=1544175499.8562579154968261718750
+[Fri Dec 07 17:38:51.671707 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Dec 07 17:38:51.718507 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Mon Dec 10 09:03:22.995638 2018] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 10 09:03:24.827041 2018] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 10 09:03:24.827041 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Dec 10 09:03:24.873841 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Dec 10 09:03:24.873841 2018] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Dec 10 09:03:25.045442 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2280
+[Mon Dec 10 09:03:29.959450 2018] [ssl:warn] [pid 2280:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 10 09:03:30.895452 2018] [ssl:warn] [pid 2280:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 10 09:03:30.895452 2018] [mpm_winnt:notice] [pid 2280:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 10 17:52:08.478845 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 10 17:52:12.410052 2018] [mpm_winnt:notice] [pid 2280:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Dec 10 17:52:25.342475 2018] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2280 exited successfully.
+[Tue Dec 11 09:07:59.991640 2018] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 11 09:08:01.541642 2018] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 11 09:08:01.541642 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Dec 11 09:08:01.571642 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Dec 11 09:08:01.571642 2018] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Dec 11 09:08:01.801642 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2188
+[Tue Dec 11 09:08:06.389850 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 11 09:08:06.998251 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 11 09:08:06.998251 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 11 17:58:53.804445 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 11 17:58:56.253649 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Dec 11 17:58:58.406453 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Wed Dec 12 09:14:46.400438 2018] [ssl:warn] [pid 1960:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 12 09:14:47.932441 2018] [ssl:warn] [pid 1960:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 12 09:14:47.932441 2018] [mpm_winnt:notice] [pid 1960:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Dec 12 09:14:47.982442 2018] [mpm_winnt:notice] [pid 1960:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Dec 12 09:14:47.982442 2018] [core:notice] [pid 1960:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Dec 12 09:14:48.222442 2018] [mpm_winnt:notice] [pid 1960:tid 268] AH00418: Parent: Created child process 2180
+[Wed Dec 12 09:14:52.045048 2018] [ssl:warn] [pid 2180:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 12 09:14:52.622249 2018] [ssl:warn] [pid 2180:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 12 09:14:52.622249 2018] [mpm_winnt:notice] [pid 2180:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 12 18:52:31.033481 2018] [mpm_winnt:notice] [pid 1960:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 12 18:52:36.587091 2018] [mpm_winnt:notice] [pid 2180:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Dec 12 18:52:55.962325 2018] [mpm_winnt:notice] [pid 1960:tid 268] AH00430: Parent: Child process 2180 exited successfully.
+[Thu Dec 13 08:54:00.230500 2018] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 13 08:54:02.378304 2018] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 13 08:54:02.378304 2018] [mpm_winnt:notice] [pid 1936:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Dec 13 08:54:02.393904 2018] [mpm_winnt:notice] [pid 1936:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Dec 13 08:54:02.393904 2018] [core:notice] [pid 1936:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Dec 13 08:54:02.534304 2018] [mpm_winnt:notice] [pid 1936:tid 268] AH00418: Parent: Created child process 2092
+[Thu Dec 13 08:54:07.604313 2018] [ssl:warn] [pid 2092:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 13 08:54:08.165914 2018] [ssl:warn] [pid 2092:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 13 08:54:08.181514 2018] [mpm_winnt:notice] [pid 2092:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 13 17:56:04.031441 2018] [mpm_winnt:notice] [pid 1936:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 13 17:56:06.933046 2018] [mpm_winnt:notice] [pid 2092:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Dec 13 17:56:09.897051 2018] [mpm_winnt:notice] [pid 1936:tid 268] AH00430: Parent: Child process 2092 exited successfully.
+[Fri Dec 14 08:55:40.560040 2018] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 14 08:55:42.546642 2018] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 14 08:55:42.546642 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Dec 14 08:55:42.593443 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Dec 14 08:55:42.593443 2018] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Dec 14 08:55:42.733843 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2276
+[Fri Dec 14 08:55:47.367051 2018] [ssl:warn] [pid 2276:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 14 08:55:47.991052 2018] [ssl:warn] [pid 2276:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 14 08:55:47.991052 2018] [mpm_winnt:notice] [pid 2276:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 14 17:46:25.561358 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 14 17:46:28.899764 2018] [mpm_winnt:notice] [pid 2276:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Dec 14 17:46:33.860573 2018] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2276 exited successfully.
+[Mon Dec 17 08:57:18.372039 2018] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 17 08:57:20.132042 2018] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 17 08:57:20.132042 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Dec 17 08:57:20.152042 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Dec 17 08:57:20.152042 2018] [core:notice] [pid 2000:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Dec 17 08:57:20.262042 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00418: Parent: Created child process 2200
+[Mon Dec 17 08:57:24.559449 2018] [ssl:warn] [pid 2200:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 17 08:57:25.074250 2018] [ssl:warn] [pid 2200:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 17 08:57:25.089850 2018] [mpm_winnt:notice] [pid 2200:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 17 17:44:40.083696 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 17 17:44:42.127299 2018] [mpm_winnt:notice] [pid 2200:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Dec 17 17:44:43.531302 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00430: Parent: Child process 2200 exited successfully.
+[Tue Dec 18 08:56:43.936840 2018] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 18 08:56:45.288843 2018] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 18 08:56:45.288843 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Dec 18 08:56:45.338843 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Dec 18 08:56:45.338843 2018] [core:notice] [pid 1984:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Dec 18 08:56:45.628843 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00418: Parent: Created child process 2188
+[Tue Dec 18 08:56:48.941049 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 18 08:56:49.487050 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 18 08:56:49.487050 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 18 17:45:33.748593 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 18 17:45:37.773400 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Dec 18 17:45:44.731012 2018] [mpm_winnt:notice] [pid 1984:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Wed Dec 19 09:00:43.499638 2018] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 19 09:00:45.119640 2018] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 19 09:00:45.119640 2018] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Dec 19 09:00:45.139640 2018] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Dec 19 09:00:45.139640 2018] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Dec 19 09:00:45.239640 2018] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2188
+[Wed Dec 19 09:00:49.795048 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 19 09:00:50.434649 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 19 09:00:50.434649 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 19 17:40:15.779009 2018] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 19 17:40:18.290613 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Dec 19 17:40:22.362221 2018] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Thu Dec 20 11:27:16.262441 2018] [ssl:warn] [pid 1980:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 20 11:27:17.902443 2018] [ssl:warn] [pid 1980:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 20 11:27:17.912443 2018] [mpm_winnt:notice] [pid 1980:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Dec 20 11:27:17.942443 2018] [mpm_winnt:notice] [pid 1980:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Dec 20 11:27:17.942443 2018] [core:notice] [pid 1980:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Dec 20 11:27:18.212444 2018] [mpm_winnt:notice] [pid 1980:tid 268] AH00418: Parent: Created child process 2188
+[Thu Dec 20 11:27:24.075254 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 20 11:27:24.668055 2018] [ssl:warn] [pid 2188:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 20 11:27:24.683655 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 20 11:29:49.563099 2018] [mpm_winnt:notice] [pid 1980:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 20 11:29:51.591102 2018] [mpm_winnt:notice] [pid 2188:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Dec 20 11:29:51.622302 2018] [mpm_winnt:notice] [pid 1980:tid 268] AH00430: Parent: Child process 2188 exited successfully.
+[Fri Dec 21 09:08:02.008039 2018] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 21 09:08:03.518041 2018] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 21 09:08:03.518041 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Dec 21 09:08:03.528041 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Dec 21 09:08:03.528041 2018] [core:notice] [pid 2000:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Dec 21 09:08:03.818042 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00418: Parent: Created child process 2200
+[Fri Dec 21 09:08:08.021249 2018] [ssl:warn] [pid 2200:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 21 09:08:08.536050 2018] [ssl:warn] [pid 2200:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 21 09:08:08.536050 2018] [mpm_winnt:notice] [pid 2200:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 21 17:47:46.095986 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 21 17:47:48.233189 2018] [mpm_winnt:notice] [pid 2200:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Dec 21 17:47:48.311189 2018] [mpm_winnt:notice] [pid 2000:tid 268] AH00430: Parent: Child process 2200 exited successfully.
+[Mon Dec 24 09:03:04.122444 2018] [ssl:warn] [pid 1964:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 24 09:03:05.422446 2018] [ssl:warn] [pid 1964:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 24 09:03:05.422446 2018] [mpm_winnt:notice] [pid 1964:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Dec 24 09:03:05.442446 2018] [mpm_winnt:notice] [pid 1964:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Dec 24 09:03:05.442446 2018] [core:notice] [pid 1964:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Dec 24 09:03:05.892447 2018] [mpm_winnt:notice] [pid 1964:tid 268] AH00418: Parent: Created child process 2212
+[Mon Dec 24 09:03:09.936054 2018] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 24 09:03:10.450855 2018] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 24 09:03:10.450855 2018] [mpm_winnt:notice] [pid 2212:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 24 18:34:25.095087 2018] [mpm_winnt:notice] [pid 1964:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 24 18:34:27.700292 2018] [mpm_winnt:notice] [pid 2212:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Dec 24 18:34:30.867098 2018] [mpm_winnt:notice] [pid 1964:tid 268] AH00430: Parent: Child process 2212 exited successfully.
+[Tue Dec 25 09:03:45.269230 2018] [ssl:warn] [pid 1924:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 25 09:03:46.659832 2018] [ssl:warn] [pid 1924:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 25 09:03:46.659832 2018] [mpm_winnt:notice] [pid 1924:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Dec 25 09:03:46.675432 2018] [mpm_winnt:notice] [pid 1924:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Dec 25 09:03:46.675432 2018] [core:notice] [pid 1924:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Dec 25 09:03:46.691032 2018] [mpm_winnt:notice] [pid 1924:tid 268] AH00418: Parent: Created child process 1736
+[Tue Dec 25 09:03:47.783034 2018] [ssl:warn] [pid 1736:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 25 09:03:48.313435 2018] [ssl:warn] [pid 1736:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 25 09:03:48.313435 2018] [mpm_winnt:notice] [pid 1736:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 25 18:42:20.746853 2018] [mpm_winnt:notice] [pid 1924:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 25 18:42:22.790457 2018] [mpm_winnt:notice] [pid 1736:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Dec 25 18:42:24.459660 2018] [mpm_winnt:notice] [pid 1924:tid 268] AH00430: Parent: Child process 1736 exited successfully.
+[Wed Dec 26 08:54:12.433241 2018] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 26 08:54:14.065244 2018] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 26 08:54:14.065244 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Dec 26 08:54:14.115244 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Dec 26 08:54:14.115244 2018] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Dec 26 08:54:14.165244 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2228
+[Wed Dec 26 08:54:18.567852 2018] [ssl:warn] [pid 2228:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 26 08:54:19.067053 2018] [ssl:warn] [pid 2228:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 26 08:54:19.067053 2018] [mpm_winnt:notice] [pid 2228:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 26 21:47:18.643182 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 26 21:47:22.402788 2018] [mpm_winnt:notice] [pid 2228:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Dec 26 21:47:34.165209 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2228 exited successfully.
+[Thu Dec 27 08:59:28.037239 2018] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 27 08:59:29.607241 2018] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 27 08:59:29.607241 2018] [mpm_winnt:notice] [pid 2012:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Dec 27 08:59:29.647241 2018] [mpm_winnt:notice] [pid 2012:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Dec 27 08:59:29.647241 2018] [core:notice] [pid 2012:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Dec 27 08:59:29.897241 2018] [mpm_winnt:notice] [pid 2012:tid 268] AH00418: Parent: Created child process 2208
+[Thu Dec 27 08:59:34.091449 2018] [ssl:warn] [pid 2208:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 27 08:59:34.590649 2018] [ssl:warn] [pid 2208:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 27 08:59:34.590649 2018] [mpm_winnt:notice] [pid 2208:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 27 20:27:26.882572 2018] [mpm_winnt:notice] [pid 2012:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 27 20:27:30.610979 2018] [mpm_winnt:notice] [pid 2208:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Dec 27 20:27:47.474608 2018] [mpm_winnt:notice] [pid 2012:tid 268] AH00430: Parent: Child process 2208 exited successfully.
+[Fri Dec 28 08:53:55.619238 2018] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 28 08:53:57.309240 2018] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 28 08:53:57.309240 2018] [mpm_winnt:notice] [pid 2004:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Dec 28 08:53:57.499241 2018] [mpm_winnt:notice] [pid 2004:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Dec 28 08:53:57.499241 2018] [core:notice] [pid 2004:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Dec 28 08:54:00.171645 2018] [mpm_winnt:notice] [pid 2004:tid 268] AH00418: Parent: Created child process 2404
+[Fri Dec 28 08:54:01.563048 2018] [ssl:warn] [pid 2404:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 28 08:54:02.109049 2018] [ssl:warn] [pid 2404:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 28 08:54:02.109049 2018] [mpm_winnt:notice] [pid 2404:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 28 19:46:29.781605 2018] [mpm_winnt:notice] [pid 2004:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 28 19:46:33.291611 2018] [mpm_winnt:notice] [pid 2404:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Dec 28 19:46:38.548820 2018] [mpm_winnt:notice] [pid 2004:tid 268] AH00430: Parent: Child process 2404 exited successfully.
+[Sat Dec 29 09:00:59.630042 2018] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 29 09:01:01.040044 2018] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 29 09:01:01.040044 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Sat Dec 29 09:01:01.110044 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Sat Dec 29 09:01:01.110044 2018] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Sat Dec 29 09:01:01.600044 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2284
+[Sat Dec 29 09:01:05.464051 2018] [ssl:warn] [pid 2284:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 29 09:01:06.275252 2018] [ssl:warn] [pid 2284:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 29 09:01:06.275252 2018] [mpm_winnt:notice] [pid 2284:tid 152] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 29 18:39:10.825154 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 29 18:39:14.834361 2018] [mpm_winnt:notice] [pid 2284:tid 152] AH00364: Child: All worker threads have exited.
+[Sat Dec 29 18:39:26.206781 2018] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2284 exited successfully.
+[Wed Jan 02 10:45:50.278831 2019] [ssl:warn] [pid 1968:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 02 10:45:53.545036 2019] [ssl:warn] [pid 1968:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 02 10:45:53.545036 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 02 10:45:53.591836 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 02 10:45:53.591836 2019] [core:notice] [pid 1968:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 02 10:45:53.825837 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00418: Parent: Created child process 2364
+[Wed Jan 02 10:45:57.164242 2019] [ssl:warn] [pid 2364:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 02 10:45:57.710243 2019] [ssl:warn] [pid 2364:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 02 10:45:57.710243 2019] [mpm_winnt:notice] [pid 2364:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 02 17:48:36.412924 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 02 17:48:38.440928 2019] [mpm_winnt:notice] [pid 2364:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 02 17:48:38.706128 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00430: Parent: Child process 2364 exited successfully.
+[Thu Jan 03 08:57:06.735239 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 08:57:08.425242 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 08:57:08.425242 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 03 08:57:08.445242 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 03 08:57:08.445242 2019] [core:notice] [pid 1972:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 03 08:57:08.685242 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00418: Parent: Created child process 2240
+[Thu Jan 03 08:57:13.077850 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 08:57:13.561451 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 08:57:13.561451 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 03 09:51:20.668051 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 03 09:51:22.669166 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 03 09:51:22.729169 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00430: Parent: Child process 2240 exited successfully.
+[Thu Jan 03 09:51:34.275829 2019] [ssl:warn] [pid 4300:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 09:51:34.953868 2019] [ssl:warn] [pid 4300:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 09:51:34.953868 2019] [mpm_winnt:notice] [pid 4300:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 03 09:51:34.953868 2019] [mpm_winnt:notice] [pid 4300:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 03 09:51:34.953868 2019] [core:notice] [pid 4300:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 03 09:51:34.960869 2019] [mpm_winnt:notice] [pid 4300:tid 268] AH00418: Parent: Created child process 8096
+[Thu Jan 03 09:51:36.012929 2019] [ssl:warn] [pid 8096:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 09:51:36.493956 2019] [ssl:warn] [pid 8096:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 03 09:51:36.497956 2019] [mpm_winnt:notice] [pid 8096:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 03 09:56:38.362222 2019] [php7:warn] [pid 8096:tid 932] [client ::1:50772] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/nav-menus.php
+[Thu Jan 03 09:56:44.063548 2019] [php7:warn] [pid 8096:tid 900] [client ::1:50783] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bpanel%5D=nav_menus&return=%2Fwp-admin%2Fnav-menus.php
+[Thu Jan 03 09:58:08.644386 2019] [php7:warn] [pid 8096:tid 900] [client ::1:50849] PHP Warning:  \xe5\x8f\x91\xe7\x94\x9f\xe4\xba\x86\xe9\xa2\x84\xe6\x96\x99\xe4\xb9\x8b\xe5\xa4\x96\xe7\x9a\x84\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82WordPress.org\xe6\x88\x96\xe6\x98\xaf\xe6\xad\xa4\xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe7\x9a\x84\xe9\x85\x8d\xe7\xbd\xae\xe5\x8f\xaf\xe8\x83\xbd\xe5\x87\xba\xe4\xba\x86\xe4\xb8\x80\xe4\xba\x9b\xe9\x97\xae\xe9\xa2\x98\xe3\x80\x82\xe5\xa6\x82\xe6\x9e\x9c\xe6\x82\xa8\xe6\x8c\x81\xe7\xbb\xad\xe9\x81\x87\xe5\x88\xb0\xe5\x9b\xb0\xe9\x9a\xbe\xef\xbc\x8c\xe8\xaf\xb7\xe8\xaf\x95\xe8\xaf\x95<a href="http://zh-cn.forums.wordpress.org/">\xe6\x94\xaf\xe6\x8c\x81\xe8\xae\xba\xe5\x9d\x9b</a>\xe3\x80\x82 \xef\xbc\x88WordPress\xe6\x97\xa0\xe6\xb3\x95\xe5\xbb\xba\xe7\xab\x8b\xe5\x88\xb0WordPress.org\xe7\x9a\x84\xe5\xae\x89\xe5\x85\xa8\xe8\xbf\x9e\xe6\x8e\xa5\xef\xbc\x8c\xe8\xaf\xb7\xe8\x81\x94\xe7\xb3\xbb\xe6\x82\xa8\xe7\x9a\x84\xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe7\xae\xa1\xe7\x90\x86\xe5\x91\x98\xe3\x80\x82\xef\xbc\x89 in E:\\phpdev\\Apache24\\htdocs\\wp-admin\\includes\\update.php on line 121, referer: http://localhost/wp-admin/update-core.php
+[Thu Jan 03 10:22:40.384565 2019] [php7:warn] [pid 8096:tid 912] [client ::1:51586] PHP Warning:  \xe5\x8f\x91\xe7\x94\x9f\xe4\xba\x86\xe9\xa2\x84\xe6\x96\x99\xe4\xb9\x8b\xe5\xa4\x96\xe7\x9a\x84\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82WordPress.org\xe6\x88\x96\xe6\x98\xaf\xe6\xad\xa4\xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe7\x9a\x84\xe9\x85\x8d\xe7\xbd\xae\xe5\x8f\xaf\xe8\x83\xbd\xe5\x87\xba\xe4\xba\x86\xe4\xb8\x80\xe4\xba\x9b\xe9\x97\xae\xe9\xa2\x98\xe3\x80\x82\xe5\xa6\x82\xe6\x9e\x9c\xe6\x82\xa8\xe6\x8c\x81\xe7\xbb\xad\xe9\x81\x87\xe5\x88\xb0\xe5\x9b\xb0\xe9\x9a\xbe\xef\xbc\x8c\xe8\xaf\xb7\xe8\xaf\x95\xe8\xaf\x95<a href="http://zh-cn.forums.wordpress.org/">\xe6\x94\xaf\xe6\x8c\x81\xe8\xae\xba\xe5\x9d\x9b</a>\xe3\x80\x82 \xef\xbc\x88WordPress\xe6\x97\xa0\xe6\xb3\x95\xe5\xbb\xba\xe7\xab\x8b\xe5\x88\xb0WordPress.org\xe7\x9a\x84\xe5\xae\x89\xe5\x85\xa8\xe8\xbf\x9e\xe6\x8e\xa5\xef\xbc\x8c\xe8\xaf\xb7\xe8\x81\x94\xe7\xb3\xbb\xe6\x82\xa8\xe7\x9a\x84\xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe7\xae\xa1\xe7\x90\x86\xe5\x91\x98\xe3\x80\x82\xef\xbc\x89 in E:\\phpdev\\Apache24\\htdocs\\wp-admin\\includes\\update.php on line 121, referer: http://localhost/wp-admin/update-core.php?force-check=1
+[Thu Jan 03 10:28:15.971759 2019] [php7:warn] [pid 8096:tid 924] [client ::1:51737] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/themes.php?theme=heroic
+[Thu Jan 03 10:28:40.037136 2019] [php7:warn] [pid 8096:tid 924] [client ::1:51748] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dheroic
+[Thu Jan 03 10:28:52.079824 2019] [php7:warn] [pid 8096:tid 924] [client ::1:51750] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?theme=heroic&return=http%3A%2F%2Flocalhost%2Fwp-admin%2Fthemes.php%3Ftheme%3Dheroic
+[Thu Jan 03 10:29:37.952448 2019] [php7:warn] [pid 8096:tid 888] [client ::1:51767] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/nav-menus.php?action=locations
+[Thu Jan 03 10:29:45.277867 2019] [php7:warn] [pid 8096:tid 924] [client ::1:51775] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'heroic_companion_installer_register' not found or invalid function name in E:\\phpdev\\Apache24\\htdocs\\wp-includes\\class-wp-hook.php on line 286, referer: http://localhost/wp-admin/customize.php?autofocus%5Bsection%5D=menu_locations&return=%2Fwp-admin%2Fnav-menus.php%3Faction%3Dlocations
+[Thu Jan 03 19:00:26.251698 2019] [mpm_winnt:notice] [pid 4300:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 03 19:00:30.136105 2019] [mpm_winnt:notice] [pid 8096:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 03 19:00:36.422916 2019] [mpm_winnt:notice] [pid 4300:tid 268] AH00430: Parent: Child process 8096 exited successfully.
+[Fri Jan 04 09:08:20.710039 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 09:08:22.292042 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 09:08:22.292042 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Jan 04 09:08:22.302042 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Jan 04 09:08:22.302042 2019] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Jan 04 09:08:22.552042 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2248
+[Fri Jan 04 09:08:26.487449 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 09:08:26.971050 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 09:08:26.971050 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 04 20:23:05.751550 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 04 20:23:07.826353 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Jan 04 20:23:08.824755 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2248 exited successfully.
+[Fri Jan 04 21:54:39.420039 2019] [ssl:warn] [pid 1968:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 21:54:40.700041 2019] [ssl:warn] [pid 1968:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 21:54:40.700041 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Jan 04 21:54:40.720041 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Jan 04 21:54:40.720041 2019] [core:notice] [pid 1968:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Jan 04 21:54:41.160042 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00418: Parent: Created child process 2224
+[Fri Jan 04 21:54:45.529249 2019] [ssl:warn] [pid 2224:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 21:54:46.075250 2019] [ssl:warn] [pid 2224:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 04 21:54:46.075250 2019] [mpm_winnt:notice] [pid 2224:tid 152] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 05 06:12:36.147205 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 05 06:12:38.175209 2019] [mpm_winnt:notice] [pid 2224:tid 152] AH00364: Child: All worker threads have exited.
+[Sat Jan 05 06:12:38.222009 2019] [mpm_winnt:notice] [pid 1968:tid 268] AH00430: Parent: Child process 2224 exited successfully.
+[Sat Jan 05 14:00:37.645639 2019] [ssl:warn] [pid 1980:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 05 14:00:39.435642 2019] [ssl:warn] [pid 1980:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 05 14:00:39.435642 2019] [mpm_winnt:notice] [pid 1980:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Sat Jan 05 14:00:39.455642 2019] [mpm_winnt:notice] [pid 1980:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Sat Jan 05 14:00:39.455642 2019] [core:notice] [pid 1980:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Sat Jan 05 14:00:39.675642 2019] [mpm_winnt:notice] [pid 1980:tid 268] AH00418: Parent: Created child process 2248
+[Sat Jan 05 14:00:43.428249 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 05 14:00:43.927450 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 05 14:00:43.927450 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 06 23:01:58.027739 2019] [mpm_winnt:notice] [pid 1980:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 06 23:02:00.055743 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00364: Child: All worker threads have exited.
+[Sun Jan 06 23:02:00.508143 2019] [mpm_winnt:notice] [pid 1980:tid 268] AH00430: Parent: Child process 2248 exited successfully.
+[Mon Jan 07 09:01:42.204439 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 07 09:01:43.954441 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 07 09:01:43.954441 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Jan 07 09:01:43.994442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Jan 07 09:01:43.994442 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Jan 07 09:01:44.184442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2248
+[Mon Jan 07 09:01:48.532649 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 07 09:01:49.281451 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 07 09:01:49.297051 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 07 17:53:17.121101 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 07 17:53:20.755907 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Jan 07 17:53:28.758721 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2248 exited successfully.
+[Tue Jan 08 08:59:31.425641 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 08 08:59:32.875643 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 08 08:59:32.875643 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Jan 08 08:59:32.915643 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Jan 08 08:59:32.915643 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Jan 08 08:59:33.325643 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2244
+[Tue Jan 08 08:59:37.419850 2019] [ssl:warn] [pid 2244:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 08 08:59:37.934651 2019] [ssl:warn] [pid 2244:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 08 08:59:37.934651 2019] [mpm_winnt:notice] [pid 2244:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 08 17:49:17.543986 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 08 17:49:20.648392 2019] [mpm_winnt:notice] [pid 2244:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Jan 08 17:49:22.286395 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2244 exited successfully.
+[Wed Jan 09 08:59:19.451641 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 08:59:20.853644 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 08:59:20.853644 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 09 08:59:20.883644 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 09 08:59:20.883644 2019] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 09 08:59:21.273644 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2264
+[Wed Jan 09 08:59:26.946254 2019] [ssl:warn] [pid 2264:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 08:59:27.570255 2019] [ssl:warn] [pid 2264:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 08:59:27.585855 2019] [mpm_winnt:notice] [pid 2264:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 09 16:39:21.271039 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 09 16:39:23.299043 2019] [mpm_winnt:notice] [pid 2264:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 09 16:39:23.501843 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2264 exited successfully.
+[Wed Jan 09 16:49:14.160440 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 16:49:15.500442 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 16:49:15.500442 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 09 16:49:15.520442 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 09 16:49:15.520442 2019] [core:notice] [pid 1984:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 09 16:49:16.244044 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00418: Parent: Created child process 2240
+[Wed Jan 09 16:49:21.298453 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 16:49:22.000454 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 09 16:49:22.000454 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 09 17:38:57.681029 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 09 17:38:59.709032 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 09 17:38:59.755832 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00430: Parent: Child process 2240 exited successfully.
+[Thu Jan 10 09:09:26.777238 2019] [ssl:warn] [pid 2016:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 10 09:09:28.557241 2019] [ssl:warn] [pid 2016:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 10 09:09:28.557241 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 10 09:09:28.627241 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 10 09:09:28.627241 2019] [core:notice] [pid 2016:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 10 09:09:28.647241 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00418: Parent: Created child process 2324
+[Thu Jan 10 09:09:32.905248 2019] [ssl:warn] [pid 2324:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 10 09:09:33.420049 2019] [ssl:warn] [pid 2324:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 10 09:09:33.435649 2019] [mpm_winnt:notice] [pid 2324:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 10 17:42:05.357398 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 10 17:42:07.385402 2019] [mpm_winnt:notice] [pid 2324:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 10 17:42:07.416602 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00430: Parent: Child process 2324 exited successfully.
+[Fri Jan 11 08:59:25.464838 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 11 08:59:27.324840 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 11 08:59:27.324840 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Jan 11 08:59:27.334840 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Jan 11 08:59:27.334840 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Jan 11 08:59:27.614841 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2256
+[Fri Jan 11 08:59:32.091449 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 11 08:59:32.590649 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 11 08:59:32.590649 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 11 17:33:50.374478 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 11 17:33:52.402482 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Jan 11 17:33:52.605282 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2256 exited successfully.
+[Mon Jan 14 08:56:06.272500 2019] [ssl:warn] [pid 1956:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 14 08:56:07.755502 2019] [ssl:warn] [pid 1956:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 14 08:56:07.755502 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Jan 14 08:56:07.817903 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Jan 14 08:56:07.817903 2019] [core:notice] [pid 1956:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Jan 14 08:56:08.270303 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00418: Parent: Created child process 2116
+[Mon Jan 14 08:56:13.433912 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 14 08:56:13.933113 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 14 08:56:13.933113 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 14 17:37:45.974222 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 14 17:37:50.404630 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Jan 14 17:37:55.677439 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00430: Parent: Child process 2116 exited successfully.
+[Tue Jan 15 08:55:03.122043 2019] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 15 08:55:09.013654 2019] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 15 08:55:09.013654 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Jan 15 08:55:09.029254 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Jan 15 08:55:09.029254 2019] [core:notice] [pid 2004:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Jan 15 08:55:09.044854 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00418: Parent: Created child process 2584
+[Tue Jan 15 08:55:10.324056 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 15 08:55:10.823257 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 15 08:55:10.838857 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 15 17:57:10.975355 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 15 17:57:15.343362 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Jan 15 17:57:20.553772 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00430: Parent: Child process 2584 exited successfully.
+[Wed Jan 16 09:00:48.144042 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 16 09:00:49.506044 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 16 09:00:49.507044 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 16 09:00:49.536045 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 16 09:00:49.536045 2019] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 16 09:00:50.036046 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2220
+[Wed Jan 16 09:00:54.296653 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 16 09:00:54.889454 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 16 09:00:54.905054 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 16 17:32:42.043102 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 16 17:32:44.071105 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 16 17:32:44.273906 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2220 exited successfully.
+[Thu Jan 17 09:09:49.750040 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 17 09:09:50.830042 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 17 09:09:50.830042 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 17 09:09:50.840042 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 17 09:09:50.840042 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 17 09:09:50.840042 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2108
+[Thu Jan 17 09:09:55.808850 2019] [ssl:warn] [pid 2108:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 17 09:09:56.370451 2019] [ssl:warn] [pid 2108:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 17 09:09:56.370451 2019] [mpm_winnt:notice] [pid 2108:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 17 17:38:28.316846 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 17 17:38:30.344850 2019] [mpm_winnt:notice] [pid 2108:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 17 17:38:31.546052 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2108 exited successfully.
+[Fri Jan 18 09:02:53.582038 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 18 09:02:55.024042 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 18 09:02:55.024042 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Jan 18 09:02:55.044042 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Jan 18 09:02:55.044042 2019] [core:notice] [pid 1972:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Jan 18 09:02:55.464043 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00418: Parent: Created child process 2236
+[Fri Jan 18 09:02:59.520650 2019] [ssl:warn] [pid 2236:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 18 09:03:00.004251 2019] [ssl:warn] [pid 2236:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 18 09:03:00.019851 2019] [mpm_winnt:notice] [pid 2236:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 18 17:41:12.403213 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 18 17:41:16.178419 2019] [mpm_winnt:notice] [pid 2236:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Jan 18 17:41:19.657225 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00430: Parent: Child process 2236 exited successfully.
+[Mon Jan 21 08:55:39.177240 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 21 08:55:40.477242 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 21 08:55:40.477242 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Jan 21 08:55:40.487242 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Jan 21 08:55:40.487242 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Jan 21 08:55:40.857243 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2240
+[Mon Jan 21 08:55:45.238250 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 21 08:55:45.831051 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 21 08:55:45.846651 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 21 17:43:26.743757 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 21 17:43:28.787360 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Jan 21 17:43:28.927761 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2240 exited successfully.
+[Tue Jan 22 09:02:24.609639 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 22 09:02:30.043449 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 22 09:02:30.043449 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Jan 22 09:02:30.074649 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Jan 22 09:02:30.074649 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Jan 22 09:02:30.074649 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2712
+[Tue Jan 22 09:02:31.151050 2019] [ssl:warn] [pid 2712:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 22 09:02:31.650251 2019] [ssl:warn] [pid 2712:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 22 09:02:31.650251 2019] [mpm_winnt:notice] [pid 2712:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 22 17:45:18.439962 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 22 17:45:20.467965 2019] [mpm_winnt:notice] [pid 2712:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Jan 22 17:45:22.542769 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2712 exited successfully.
+[Wed Jan 23 08:52:28.465631 2019] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 23 08:52:29.818433 2019] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 23 08:52:29.818433 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 23 08:52:29.834033 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 23 08:52:29.834033 2019] [core:notice] [pid 1936:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 23 08:52:29.834033 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00418: Parent: Created child process 1048
+[Wed Jan 23 08:52:30.957235 2019] [ssl:warn] [pid 1048:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 23 08:52:31.425236 2019] [ssl:warn] [pid 1048:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 23 08:52:31.440836 2019] [mpm_winnt:notice] [pid 1048:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 23 17:47:01.950316 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 23 17:47:04.415120 2019] [mpm_winnt:notice] [pid 1048:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 23 17:47:07.425926 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00430: Parent: Child process 1048 exited successfully.
+[Thu Jan 24 08:57:36.636440 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 24 08:57:38.048443 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 24 08:57:38.048443 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 24 08:57:38.098443 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 24 08:57:38.098443 2019] [core:notice] [pid 2012:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 24 08:57:38.523244 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00418: Parent: Created child process 2256
+[Thu Jan 24 08:57:42.750851 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 24 08:57:43.234452 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 24 08:57:43.250052 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 24 18:03:55.096203 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 24 18:03:58.247408 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 24 18:04:01.320614 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00430: Parent: Child process 2256 exited successfully.
+[Fri Jan 25 08:56:27.467239 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 08:56:29.611442 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 08:56:29.611442 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Jan 25 08:56:29.673843 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Jan 25 08:56:29.673843 2019] [core:notice] [pid 1984:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Jan 25 08:56:33.386649 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00418: Parent: Created child process 2584
+[Fri Jan 25 08:56:34.790652 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 08:56:35.367853 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 08:56:35.367853 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 25 17:18:02.766637 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 25 17:18:04.794641 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Jan 25 17:18:04.888241 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00430: Parent: Child process 2584 exited successfully.
+[Mon Jan 28 08:51:30.173640 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 28 08:51:31.413641 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 28 08:51:31.413641 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Jan 28 08:51:31.463642 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Jan 28 08:51:31.463642 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Jan 28 08:51:31.463642 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2172
+[Mon Jan 28 08:51:36.055849 2019] [ssl:warn] [pid 2172:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 28 08:51:36.570650 2019] [ssl:warn] [pid 2172:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 28 08:51:36.570650 2019] [mpm_winnt:notice] [pid 2172:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 28 17:34:24.551250 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 28 17:34:26.579253 2019] [mpm_winnt:notice] [pid 2172:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Jan 28 17:34:26.641653 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2172 exited successfully.
+[Tue Jan 29 09:06:42.414439 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 29 09:06:44.318442 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 29 09:06:44.318442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Jan 29 09:06:44.349642 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Jan 29 09:06:44.349642 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Jan 29 09:06:47.656848 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2520
+[Tue Jan 29 09:06:49.030650 2019] [ssl:warn] [pid 2520:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 29 09:06:49.623451 2019] [ssl:warn] [pid 2520:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 29 09:06:49.623451 2019] [mpm_winnt:notice] [pid 2520:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 29 17:34:44.385689 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 29 17:34:46.413692 2019] [mpm_winnt:notice] [pid 2520:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Jan 29 17:34:46.460493 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2520 exited successfully.
+[Wed Jan 30 08:54:29.784439 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 30 08:54:31.016442 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 30 08:54:31.016442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Jan 30 08:54:31.056442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Jan 30 08:54:31.056442 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Jan 30 08:54:31.576443 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2236
+[Wed Jan 30 08:54:35.643050 2019] [ssl:warn] [pid 2236:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 30 08:54:36.173451 2019] [ssl:warn] [pid 2236:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 30 08:54:36.173451 2019] [mpm_winnt:notice] [pid 2236:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 30 17:31:59.279936 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 30 17:32:01.307939 2019] [mpm_winnt:notice] [pid 2236:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Jan 30 17:32:01.557540 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2236 exited successfully.
+[Thu Jan 31 08:49:00.156430 2019] [ssl:warn] [pid 1976:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 31 08:49:01.419432 2019] [ssl:warn] [pid 1976:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 31 08:49:01.419432 2019] [mpm_winnt:notice] [pid 1976:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Jan 31 08:49:01.497432 2019] [mpm_winnt:notice] [pid 1976:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Jan 31 08:49:01.497432 2019] [core:notice] [pid 1976:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Jan 31 08:49:01.513032 2019] [mpm_winnt:notice] [pid 1976:tid 268] AH00418: Parent: Created child process 2020
+[Thu Jan 31 08:49:02.667434 2019] [ssl:warn] [pid 2020:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 31 08:49:03.291435 2019] [ssl:warn] [pid 2020:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 31 08:49:03.291435 2019] [mpm_winnt:notice] [pid 2020:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 31 17:34:10.142486 2019] [mpm_winnt:notice] [pid 1976:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 31 17:34:12.170490 2019] [mpm_winnt:notice] [pid 2020:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Jan 31 17:34:12.217290 2019] [mpm_winnt:notice] [pid 1976:tid 268] AH00430: Parent: Child process 2020 exited successfully.
+[Fri Feb 01 08:43:08.610841 2019] [ssl:warn] [pid 2044:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 01 08:43:13.996250 2019] [ssl:warn] [pid 2044:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 01 08:43:13.996250 2019] [mpm_winnt:notice] [pid 2044:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Feb 01 08:43:14.121050 2019] [mpm_winnt:notice] [pid 2044:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Feb 01 08:43:14.121050 2019] [core:notice] [pid 2044:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Feb 01 08:43:14.121050 2019] [mpm_winnt:notice] [pid 2044:tid 268] AH00418: Parent: Created child process 2780
+[Fri Feb 01 08:43:15.197452 2019] [ssl:warn] [pid 2780:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 01 08:43:15.743453 2019] [ssl:warn] [pid 2780:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 01 08:43:15.743453 2019] [mpm_winnt:notice] [pid 2780:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 01 14:56:36.960652 2019] [mpm_winnt:notice] [pid 2044:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 01 14:56:38.988655 2019] [mpm_winnt:notice] [pid 2780:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Feb 01 14:56:39.082255 2019] [mpm_winnt:notice] [pid 2044:tid 268] AH00430: Parent: Child process 2780 exited successfully.
+[Thu Feb 14 08:46:14.494438 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 14 08:46:16.414440 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 14 08:46:16.414440 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Feb 14 08:46:16.574441 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Feb 14 08:46:16.574441 2019] [core:notice] [pid 2000:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Feb 14 08:46:19.343245 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00418: Parent: Created child process 2400
+[Thu Feb 14 08:46:20.920848 2019] [ssl:warn] [pid 2400:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 14 08:46:21.435649 2019] [ssl:warn] [pid 2400:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 14 08:46:21.435649 2019] [mpm_winnt:notice] [pid 2400:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 14 17:34:58.943965 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 14 17:35:01.174769 2019] [mpm_winnt:notice] [pid 2400:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Feb 14 17:35:01.861170 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00430: Parent: Child process 2400 exited successfully.
+[Fri Feb 15 08:42:37.557241 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 15 08:42:38.757242 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 15 08:42:38.767242 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Feb 15 08:42:38.787242 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Feb 15 08:42:38.787242 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Feb 15 08:42:38.797242 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2216
+[Fri Feb 15 08:42:43.206850 2019] [ssl:warn] [pid 2216:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 15 08:42:43.799651 2019] [ssl:warn] [pid 2216:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 15 08:42:43.799651 2019] [mpm_winnt:notice] [pid 2216:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 15 17:35:52.547103 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 15 17:35:54.606306 2019] [mpm_winnt:notice] [pid 2216:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Feb 15 17:35:54.762307 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2216 exited successfully.
+[Mon Feb 18 08:57:49.001919 2019] [ssl:warn] [pid 1956:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 18 08:57:50.998722 2019] [ssl:warn] [pid 1956:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 18 08:57:50.998722 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Feb 18 08:57:51.014322 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Feb 18 08:57:51.014322 2019] [core:notice] [pid 1956:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Feb 18 08:57:51.185923 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00418: Parent: Created child process 2116
+[Mon Feb 18 08:57:55.959531 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 18 08:57:56.458732 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 18 08:57:56.474332 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 18 17:39:21.280125 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 18 17:39:23.308129 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Feb 18 17:39:23.386129 2019] [mpm_winnt:notice] [pid 1956:tid 268] AH00430: Parent: Child process 2116 exited successfully.
+[Tue Feb 19 09:03:57.295239 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 19 09:03:58.665241 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 19 09:03:58.665241 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Feb 19 09:03:58.695241 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Feb 19 09:03:58.695241 2019] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Feb 19 09:03:58.695241 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2096
+[Tue Feb 19 09:04:03.451249 2019] [ssl:warn] [pid 2096:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 19 09:04:04.012850 2019] [ssl:warn] [pid 2096:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 19 09:04:04.028450 2019] [mpm_winnt:notice] [pid 2096:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 19 17:38:29.305040 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 19 17:38:31.348644 2019] [mpm_winnt:notice] [pid 2096:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Feb 19 17:38:31.395444 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2096 exited successfully.
+[Wed Feb 20 08:57:05.421431 2019] [ssl:warn] [pid 2024:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 08:57:07.621035 2019] [ssl:warn] [pid 2024:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 08:57:07.621035 2019] [mpm_winnt:notice] [pid 2024:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Feb 20 08:57:07.636635 2019] [mpm_winnt:notice] [pid 2024:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Feb 20 08:57:07.636635 2019] [core:notice] [pid 2024:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Feb 20 08:57:07.636635 2019] [mpm_winnt:notice] [pid 2024:tid 268] AH00418: Parent: Created child process 2176
+[Wed Feb 20 08:57:08.619437 2019] [ssl:warn] [pid 2176:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 08:57:09.071838 2019] [ssl:warn] [pid 2176:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 08:57:09.071838 2019] [mpm_winnt:notice] [pid 2176:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 20 17:46:10.494613 2019] [mpm_winnt:notice] [pid 2024:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 20 17:46:12.522617 2019] [mpm_winnt:notice] [pid 2176:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Feb 20 17:46:12.553817 2019] [mpm_winnt:notice] [pid 2024:tid 268] AH00430: Parent: Child process 2176 exited successfully.
+[Thu Feb 21 09:01:09.026040 2019] [ssl:warn] [pid 2016:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 21 09:01:10.606042 2019] [ssl:warn] [pid 2016:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 21 09:01:10.606042 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Feb 21 09:01:10.636042 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Feb 21 09:01:10.636042 2019] [core:notice] [pid 2016:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Feb 21 09:01:11.166043 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00418: Parent: Created child process 2264
+[Thu Feb 21 09:01:15.675051 2019] [ssl:warn] [pid 2264:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 21 09:01:16.252252 2019] [ssl:warn] [pid 2264:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 21 09:01:16.252252 2019] [mpm_winnt:notice] [pid 2264:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 21 17:46:22.605435 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 21 17:46:24.633438 2019] [mpm_winnt:notice] [pid 2264:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Feb 21 17:46:24.680238 2019] [mpm_winnt:notice] [pid 2016:tid 268] AH00430: Parent: Child process 2264 exited successfully.
+[Fri Feb 22 09:06:15.165230 2019] [ssl:warn] [pid 1172:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 22 09:06:21.720241 2019] [ssl:warn] [pid 1172:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 22 09:06:21.720241 2019] [mpm_winnt:notice] [pid 1172:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Feb 22 09:06:21.735841 2019] [mpm_winnt:notice] [pid 1172:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Feb 22 09:06:21.735841 2019] [core:notice] [pid 1172:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Feb 22 09:06:21.735841 2019] [mpm_winnt:notice] [pid 1172:tid 268] AH00418: Parent: Created child process 2584
+[Fri Feb 22 09:06:22.812243 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 22 09:06:23.311444 2019] [ssl:warn] [pid 2584:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 22 09:06:23.311444 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 22 17:35:44.392473 2019] [mpm_winnt:notice] [pid 1172:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 22 17:35:46.420476 2019] [mpm_winnt:notice] [pid 2584:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Feb 22 17:35:46.498477 2019] [mpm_winnt:notice] [pid 1172:tid 268] AH00430: Parent: Child process 2584 exited successfully.
+[Mon Feb 25 08:56:57.848028 2019] [ssl:warn] [pid 1964:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 25 08:56:59.583831 2019] [ssl:warn] [pid 1964:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 25 08:56:59.583831 2019] [mpm_winnt:notice] [pid 1964:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Feb 25 08:56:59.599431 2019] [mpm_winnt:notice] [pid 1964:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Feb 25 08:56:59.599431 2019] [core:notice] [pid 1964:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Feb 25 08:56:59.599431 2019] [mpm_winnt:notice] [pid 1964:tid 268] AH00418: Parent: Created child process 2212
+[Mon Feb 25 08:57:00.707033 2019] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 25 08:57:01.206233 2019] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 25 08:57:01.206233 2019] [mpm_winnt:notice] [pid 2212:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 25 17:47:24.789461 2019] [mpm_winnt:notice] [pid 1964:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 25 17:47:26.817464 2019] [mpm_winnt:notice] [pid 2212:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Feb 25 17:47:26.833064 2019] [mpm_winnt:notice] [pid 1964:tid 268] AH00430: Parent: Child process 2212 exited successfully.
+[Tue Feb 26 09:04:41.966431 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 26 09:04:44.810835 2019] [ssl:warn] [pid 1972:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 26 09:04:44.810835 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Feb 26 09:04:44.842035 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Feb 26 09:04:44.842035 2019] [core:notice] [pid 1972:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Feb 26 09:04:44.842035 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00418: Parent: Created child process 548
+[Tue Feb 26 09:04:46.121238 2019] [ssl:warn] [pid 548:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 26 09:04:46.698439 2019] [ssl:warn] [pid 548:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 26 09:04:46.714039 2019] [mpm_winnt:notice] [pid 548:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 26 17:56:54.551625 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 26 17:56:56.595229 2019] [mpm_winnt:notice] [pid 548:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Feb 26 17:56:56.813629 2019] [mpm_winnt:notice] [pid 1972:tid 268] AH00430: Parent: Child process 548 exited successfully.
+[Wed Feb 27 08:59:36.755640 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 27 08:59:38.697644 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 27 08:59:38.697644 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Feb 27 08:59:38.747644 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Feb 27 08:59:38.747644 2019] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Feb 27 08:59:38.797645 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2272
+[Wed Feb 27 08:59:42.936652 2019] [ssl:warn] [pid 2272:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 27 08:59:43.763454 2019] [ssl:warn] [pid 2272:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 27 08:59:43.763454 2019] [mpm_winnt:notice] [pid 2272:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 27 17:39:40.758672 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 27 17:39:42.786676 2019] [mpm_winnt:notice] [pid 2272:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Feb 27 17:39:42.817876 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2272 exited successfully.
+[Thu Feb 28 08:55:33.482438 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 28 08:55:35.084442 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 28 08:55:35.084442 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Feb 28 08:55:35.094442 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Feb 28 08:55:35.094442 2019] [core:notice] [pid 2012:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Feb 28 08:55:35.504442 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00418: Parent: Created child process 2256
+[Thu Feb 28 08:55:39.757050 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 28 08:55:40.256251 2019] [ssl:warn] [pid 2256:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 28 08:55:40.256251 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 28 17:50:52.775287 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 28 17:50:54.803290 2019] [mpm_winnt:notice] [pid 2256:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Feb 28 17:50:54.834490 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00430: Parent: Child process 2256 exited successfully.
+[Fri Mar 01 08:57:22.877240 2019] [ssl:warn] [pid 1156:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 01 08:57:28.866451 2019] [ssl:warn] [pid 1156:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 01 08:57:28.866451 2019] [mpm_winnt:notice] [pid 1156:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Mar 01 08:57:28.897651 2019] [mpm_winnt:notice] [pid 1156:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Mar 01 08:57:28.897651 2019] [core:notice] [pid 1156:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Mar 01 08:57:28.897651 2019] [mpm_winnt:notice] [pid 1156:tid 268] AH00418: Parent: Created child process 2664
+[Fri Mar 01 08:57:30.005253 2019] [ssl:warn] [pid 2664:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 01 08:57:30.504454 2019] [ssl:warn] [pid 2664:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 01 08:57:30.504454 2019] [mpm_winnt:notice] [pid 2664:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 01 17:47:18.663308 2019] [mpm_winnt:notice] [pid 1156:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 01 17:47:21.362113 2019] [mpm_winnt:notice] [pid 2664:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Mar 01 17:47:23.717717 2019] [mpm_winnt:notice] [pid 1156:tid 268] AH00430: Parent: Child process 2664 exited successfully.
+[Mon Mar 04 08:59:14.811638 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 04 08:59:15.881640 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 04 08:59:15.881640 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Mar 04 08:59:15.881640 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Mar 04 08:59:15.881640 2019] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Mar 04 08:59:15.881640 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2116
+[Mon Mar 04 08:59:20.066247 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 04 08:59:21.002248 2019] [ssl:warn] [pid 2116:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 04 08:59:21.017848 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 04 17:44:48.861377 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 04 17:44:54.882988 2019] [mpm_winnt:notice] [pid 2116:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Mar 04 17:45:17.643428 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2116 exited successfully.
+[Tue Mar 05 08:57:03.672053 2019] [ssl:warn] [pid 1148:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 05 08:57:11.538867 2019] [ssl:warn] [pid 1148:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 05 08:57:11.538867 2019] [mpm_winnt:notice] [pid 1148:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Mar 05 08:57:11.538867 2019] [mpm_winnt:notice] [pid 1148:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Mar 05 08:57:11.538867 2019] [core:notice] [pid 1148:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Mar 05 08:57:11.554467 2019] [mpm_winnt:notice] [pid 1148:tid 268] AH00418: Parent: Created child process 2732
+[Tue Mar 05 08:57:12.958470 2019] [ssl:warn] [pid 2732:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 05 08:57:13.598071 2019] [ssl:warn] [pid 2732:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 05 08:57:13.613671 2019] [mpm_winnt:notice] [pid 2732:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 05 17:44:35.210814 2019] [mpm_winnt:notice] [pid 1148:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 05 17:44:39.360422 2019] [mpm_winnt:notice] [pid 2732:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Mar 05 17:44:46.988835 2019] [mpm_winnt:notice] [pid 1148:tid 268] AH00430: Parent: Child process 2732 exited successfully.
+[Wed Mar 06 08:59:39.707251 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 06 08:59:40.847252 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 06 08:59:40.847252 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Mar 06 08:59:40.867252 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Mar 06 08:59:40.867252 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Mar 06 08:59:40.877252 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2220
+[Wed Mar 06 08:59:46.080261 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 06 08:59:46.844662 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 06 08:59:46.844662 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 06 17:51:41.101722 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 06 17:51:44.861329 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Mar 06 17:51:52.052942 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2220 exited successfully.
+[Thu Mar 07 08:55:07.742450 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 07 08:55:08.942452 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 07 08:55:08.942452 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Mar 07 08:55:08.982452 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Mar 07 08:55:08.982452 2019] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Mar 07 08:55:09.002452 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2224
+[Thu Mar 07 08:55:13.756260 2019] [ssl:warn] [pid 2224:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 07 08:55:14.239861 2019] [ssl:warn] [pid 2224:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 07 08:55:14.239861 2019] [mpm_winnt:notice] [pid 2224:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 07 17:56:02.500830 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 07 17:56:05.714436 2019] [mpm_winnt:notice] [pid 2224:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Mar 07 17:56:12.469248 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2224 exited successfully.
+[Fri Mar 08 09:04:06.035654 2019] [ssl:warn] [pid 1276:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 08 09:04:11.750064 2019] [ssl:warn] [pid 1276:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 08 09:04:11.750064 2019] [mpm_winnt:notice] [pid 1276:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Mar 08 09:04:11.796864 2019] [mpm_winnt:notice] [pid 1276:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Mar 08 09:04:11.796864 2019] [core:notice] [pid 1276:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Mar 08 09:04:11.812464 2019] [mpm_winnt:notice] [pid 1276:tid 268] AH00418: Parent: Created child process 2624
+[Fri Mar 08 09:04:12.795266 2019] [ssl:warn] [pid 2624:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 08 09:04:13.278867 2019] [ssl:warn] [pid 2624:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 08 09:04:13.278867 2019] [mpm_winnt:notice] [pid 2624:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 08 17:34:34.514294 2019] [mpm_winnt:notice] [pid 1276:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 08 17:34:36.947899 2019] [mpm_winnt:notice] [pid 2624:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Mar 08 17:34:40.426705 2019] [mpm_winnt:notice] [pid 1276:tid 268] AH00430: Parent: Child process 2624 exited successfully.
+[Mon Mar 11 08:55:45.738849 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 11 08:55:46.918850 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 11 08:55:46.918850 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Mar 11 08:55:46.928850 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Mar 11 08:55:46.928850 2019] [core:notice] [pid 2000:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Mar 11 08:55:46.938850 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00418: Parent: Created child process 2164
+[Mon Mar 11 08:55:51.583658 2019] [ssl:warn] [pid 2164:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 11 08:55:52.394860 2019] [ssl:warn] [pid 2164:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 11 08:55:52.394860 2019] [mpm_winnt:notice] [pid 2164:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 11 17:40:03.622306 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 11 17:40:05.650309 2019] [mpm_winnt:notice] [pid 2164:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Mar 11 17:40:06.102710 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00430: Parent: Child process 2164 exited successfully.
+[Tue Mar 12 09:01:02.002450 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 09:01:06.873658 2019] [ssl:warn] [pid 2000:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 09:01:06.873658 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Mar 12 09:01:06.920458 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Mar 12 09:01:06.920458 2019] [core:notice] [pid 2000:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Mar 12 09:01:06.920458 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00418: Parent: Created child process 2692
+[Tue Mar 12 09:01:08.121660 2019] [ssl:warn] [pid 2692:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 09:01:08.730062 2019] [ssl:warn] [pid 2692:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 09:01:08.730062 2019] [mpm_winnt:notice] [pid 2692:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 12 17:36:08.929343 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 12 17:36:10.957347 2019] [mpm_winnt:notice] [pid 2692:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Mar 12 17:36:11.113347 2019] [mpm_winnt:notice] [pid 2000:tid 268] AH00430: Parent: Child process 2692 exited successfully.
+[Wed Mar 13 08:59:15.120848 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 13 08:59:16.330849 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 13 08:59:16.330849 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Mar 13 08:59:16.350849 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Mar 13 08:59:16.350849 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Mar 13 08:59:16.360849 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2212
+[Wed Mar 13 08:59:20.988657 2019] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 13 08:59:21.612658 2019] [ssl:warn] [pid 2212:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 13 08:59:21.628258 2019] [mpm_winnt:notice] [pid 2212:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 13 17:42:58.807784 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 13 17:43:00.835787 2019] [mpm_winnt:notice] [pid 2212:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Mar 13 17:43:01.631389 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2212 exited successfully.
+[Thu Mar 14 09:07:44.501251 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 14 09:07:45.863254 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 14 09:07:45.863254 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Mar 14 09:07:45.893254 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Mar 14 09:07:45.893254 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Mar 14 09:07:46.273255 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2252
+[Thu Mar 14 09:07:50.694263 2019] [ssl:warn] [pid 2252:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 14 09:07:51.177864 2019] [ssl:warn] [pid 2252:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 14 09:07:51.193464 2019] [mpm_winnt:notice] [pid 2252:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 14 17:41:01.858380 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 14 17:41:03.901983 2019] [mpm_winnt:notice] [pid 2252:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Mar 14 17:41:03.995583 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2252 exited successfully.
+[Fri Mar 15 09:00:08.457650 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 15 09:00:09.697652 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 15 09:00:09.697652 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Mar 15 09:00:09.717652 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Mar 15 09:00:09.717652 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Mar 15 09:00:09.717652 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2176
+[Fri Mar 15 09:00:14.851661 2019] [ssl:warn] [pid 2176:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 15 09:00:15.366461 2019] [ssl:warn] [pid 2176:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 15 09:00:15.366461 2019] [mpm_winnt:notice] [pid 2176:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 15 17:31:05.965037 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 15 17:31:07.993040 2019] [mpm_winnt:notice] [pid 2176:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Mar 15 17:31:08.991442 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2176 exited successfully.
+[Mon Mar 18 09:06:05.854731 2019] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 18 09:06:07.321133 2019] [ssl:warn] [pid 1936:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 18 09:06:07.321133 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Mar 18 09:06:07.336733 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Mar 18 09:06:07.336733 2019] [core:notice] [pid 1936:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Mar 18 09:06:07.336733 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00418: Parent: Created child process 1804
+[Mon Mar 18 09:06:08.397535 2019] [ssl:warn] [pid 1804:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 18 09:06:08.881136 2019] [ssl:warn] [pid 1804:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 18 09:06:08.881136 2019] [mpm_winnt:notice] [pid 1804:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 18 17:41:20.576396 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 18 17:41:22.604400 2019] [mpm_winnt:notice] [pid 1804:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Mar 18 17:41:22.729200 2019] [mpm_winnt:notice] [pid 1936:tid 268] AH00430: Parent: Child process 1804 exited successfully.
+[Tue Mar 19 08:54:32.262852 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 19 08:54:34.124255 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 19 08:54:34.124255 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Mar 19 08:54:34.155455 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Mar 19 08:54:34.155455 2019] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Mar 19 08:54:34.155455 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2232
+[Tue Mar 19 08:54:35.153857 2019] [ssl:warn] [pid 2232:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 19 08:54:35.637458 2019] [ssl:warn] [pid 2232:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 19 08:54:35.637458 2019] [mpm_winnt:notice] [pid 2232:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 19 17:38:44.483544 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 19 17:38:46.776748 2019] [mpm_winnt:notice] [pid 2232:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Mar 19 17:38:48.430351 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2232 exited successfully.
+[Wed Mar 20 09:01:45.787652 2019] [ssl:warn] [pid 1944:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 20 09:01:47.187654 2019] [ssl:warn] [pid 1944:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 20 09:01:47.187654 2019] [mpm_winnt:notice] [pid 1944:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Mar 20 09:01:47.197654 2019] [mpm_winnt:notice] [pid 1944:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Mar 20 09:01:47.197654 2019] [core:notice] [pid 1944:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Mar 20 09:01:47.772855 2019] [mpm_winnt:notice] [pid 1944:tid 268] AH00418: Parent: Created child process 2220
+[Wed Mar 20 09:01:51.844462 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 20 09:01:52.390463 2019] [ssl:warn] [pid 2220:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 20 09:01:52.390463 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 20 17:38:20.872332 2019] [mpm_winnt:notice] [pid 1944:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 20 17:38:22.900335 2019] [mpm_winnt:notice] [pid 2220:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Mar 20 17:38:22.947135 2019] [mpm_winnt:notice] [pid 1944:tid 268] AH00430: Parent: Child process 2220 exited successfully.
+[Thu Mar 21 09:19:08.130449 2019] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 21 09:19:09.320451 2019] [ssl:warn] [pid 2004:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 21 09:19:09.320451 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Mar 21 09:19:09.370451 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Mar 21 09:19:09.370451 2019] [core:notice] [pid 2004:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Mar 21 09:19:09.890452 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00418: Parent: Created child process 2272
+[Thu Mar 21 09:19:14.285459 2019] [ssl:warn] [pid 2272:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 21 09:19:14.784660 2019] [ssl:warn] [pid 2272:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 21 09:19:14.784660 2019] [mpm_winnt:notice] [pid 2272:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 21 17:34:39.302247 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 21 17:34:41.330251 2019] [mpm_winnt:notice] [pid 2272:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Mar 21 17:34:41.439451 2019] [mpm_winnt:notice] [pid 2004:tid 268] AH00430: Parent: Child process 2272 exited successfully.
+[Fri Mar 22 08:56:13.338451 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 22 08:56:14.947053 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 22 08:56:14.947053 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Mar 22 08:56:14.993853 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Mar 22 08:56:14.993853 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Mar 22 08:56:15.290254 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2336
+[Fri Mar 22 08:56:20.407063 2019] [ssl:warn] [pid 2336:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 22 08:56:20.906264 2019] [ssl:warn] [pid 2336:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 22 08:56:20.906264 2019] [mpm_winnt:notice] [pid 2336:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 22 22:09:42.652869 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 22 22:09:44.680872 2019] [mpm_winnt:notice] [pid 2336:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Mar 22 22:09:44.774472 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2336 exited successfully.
+[Mon Mar 25 09:07:03.059256 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 09:07:04.641260 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 09:07:04.641260 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Mar 25 09:07:04.661260 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Mar 25 09:07:04.661260 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Mar 25 09:07:04.991260 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2240
+[Mon Mar 25 09:07:09.212268 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 09:07:09.695868 2019] [ssl:warn] [pid 2240:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 25 09:07:09.695868 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 25 17:35:57.194688 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 25 17:35:59.222692 2019] [mpm_winnt:notice] [pid 2240:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Mar 25 17:35:59.253892 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2240 exited successfully.
+[Tue Mar 26 09:04:06.958447 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 26 09:04:08.018449 2019] [ssl:warn] [pid 1984:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 26 09:04:08.018449 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Mar 26 09:04:08.028449 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Mar 26 09:04:08.028449 2019] [core:notice] [pid 1984:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Mar 26 09:04:08.028449 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00418: Parent: Created child process 2112
+[Tue Mar 26 09:04:09.108450 2019] [ssl:warn] [pid 2112:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 26 09:04:09.607851 2019] [ssl:warn] [pid 2112:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 26 09:04:09.623451 2019] [mpm_winnt:notice] [pid 2112:tid 152] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 26 17:43:11.359257 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 26 17:43:13.387261 2019] [mpm_winnt:notice] [pid 2112:tid 152] AH00364: Child: All worker threads have exited.
+[Tue Mar 26 17:43:13.418461 2019] [mpm_winnt:notice] [pid 1984:tid 268] AH00430: Parent: Child process 2112 exited successfully.
+[Wed Mar 27 09:00:32.720847 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 09:00:33.880849 2019] [ssl:warn] [pid 2008:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 09:00:33.880849 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Wed Mar 27 09:00:33.890849 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Wed Mar 27 09:00:33.890849 2019] [core:notice] [pid 2008:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Wed Mar 27 09:00:33.900849 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00418: Parent: Created child process 2152
+[Wed Mar 27 09:00:38.622257 2019] [ssl:warn] [pid 2152:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 09:00:39.152658 2019] [ssl:warn] [pid 2152:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 09:00:39.168258 2019] [mpm_winnt:notice] [pid 2152:tid 152] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 27 17:36:46.343416 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 27 17:36:48.371419 2019] [mpm_winnt:notice] [pid 2152:tid 152] AH00364: Child: All worker threads have exited.
+[Wed Mar 27 17:36:48.402619 2019] [mpm_winnt:notice] [pid 2008:tid 268] AH00430: Parent: Child process 2152 exited successfully.
+[Thu Mar 28 09:11:21.822851 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 28 09:11:23.442853 2019] [ssl:warn] [pid 1992:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 28 09:11:23.442853 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Thu Mar 28 09:11:23.452853 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Thu Mar 28 09:11:23.452853 2019] [core:notice] [pid 1992:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Thu Mar 28 09:11:23.722853 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00418: Parent: Created child process 2248
+[Thu Mar 28 09:11:27.792660 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 28 09:11:28.291861 2019] [ssl:warn] [pid 2248:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 28 09:11:28.291861 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 28 17:36:01.982858 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 28 17:36:04.010861 2019] [mpm_winnt:notice] [pid 2248:tid 152] AH00364: Child: All worker threads have exited.
+[Thu Mar 28 17:36:04.042062 2019] [mpm_winnt:notice] [pid 1992:tid 268] AH00430: Parent: Child process 2248 exited successfully.
+[Fri Mar 29 09:10:59.989651 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 29 09:11:01.725654 2019] [ssl:warn] [pid 1988:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 29 09:11:01.725654 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Fri Mar 29 09:11:01.756854 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Fri Mar 29 09:11:01.756854 2019] [core:notice] [pid 1988:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Fri Mar 29 09:11:01.866054 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00418: Parent: Created child process 2320
+[Fri Mar 29 09:11:06.546062 2019] [ssl:warn] [pid 2320:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 29 09:11:07.060863 2019] [ssl:warn] [pid 2320:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 29 09:11:07.076463 2019] [mpm_winnt:notice] [pid 2320:tid 152] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 29 17:36:31.107143 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 29 17:36:33.135147 2019] [mpm_winnt:notice] [pid 2320:tid 152] AH00364: Child: All worker threads have exited.
+[Fri Mar 29 17:36:33.369147 2019] [mpm_winnt:notice] [pid 1988:tid 268] AH00430: Parent: Child process 2320 exited successfully.
+[Mon Apr 01 08:56:22.454448 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 08:56:24.054451 2019] [ssl:warn] [pid 1996:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 08:56:24.054451 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Mon Apr 01 08:56:24.064451 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Mon Apr 01 08:56:24.064451 2019] [core:notice] [pid 1996:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Mon Apr 01 08:56:24.454451 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00418: Parent: Created child process 2260
+[Mon Apr 01 08:56:28.941459 2019] [ssl:warn] [pid 2260:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 08:56:29.440660 2019] [ssl:warn] [pid 2260:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 01 08:56:29.440660 2019] [mpm_winnt:notice] [pid 2260:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 01 17:43:07.656272 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 01 17:43:10.963478 2019] [mpm_winnt:notice] [pid 2260:tid 152] AH00364: Child: All worker threads have exited.
+[Mon Apr 01 17:43:14.801085 2019] [mpm_winnt:notice] [pid 1996:tid 268] AH00430: Parent: Child process 2260 exited successfully.
+[Tue Apr 02 09:10:28.109651 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 02 09:10:29.259652 2019] [ssl:warn] [pid 2012:tid 268] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 02 09:10:29.259652 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00455: Apache/2.4.37 (Win64) PHP/7.1.24 OpenSSL/1.0.2q configured -- resuming normal operations
+[Tue Apr 02 09:10:29.279652 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00456: Server built: Nov 24 2018 12:13:13
+[Tue Apr 02 09:10:29.279652 2019] [core:notice] [pid 2012:tid 268] AH00094: Command line: 'E:\\phpdev\\Apache24\\bin\\httpd.exe -d E:/phpdev/Apache24'
+[Tue Apr 02 09:10:29.289652 2019] [mpm_winnt:notice] [pid 2012:tid 268] AH00418: Parent: Created child process 2124
+[Tue Apr 02 09:10:33.278059 2019] [ssl:warn] [pid 2124:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 02 09:10:34.151661 2019] [ssl:warn] [pid 2124:tid 152] AH01909: localhost:442:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 02 09:10:34.151661 2019] [mpm_winnt:notice] [pid 2124:tid 152] AH00354: Child: Starting 64 worker threads.
