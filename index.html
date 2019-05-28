@@ -19,29 +19,10 @@
     <script src="assets/js/bootstrap.js"></script>
   <script type="text/javascript">
 //<!CDATA[
-var bodyBgs = [];
-bodyBgs[0] = "https://ws3.sinaimg.cn/large/9660f996gy1frcygqon36j21hc0u0qb3";
-bodyBgs[1] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0kw0v8fj21hc0u07wh";
-bodyBgs[2] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0kq3giaj21hc0ushdt";
-bodyBgs[3] = "https://ws3.sinaimg.cn/large/9660f996gy1frcygowxekj21hc0u049k";
-bodyBgs[4] = "https://ws3.sinaimg.cn/large/9660f996gy1frbrjd2syoj21hc0u0wjv";
-bodyBgs[5] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0iuro9zj21hc0u0txl";
-bodyBgs[6] = "https://ws3.sinaimg.cn/large/9660f996gy1frczgdgqk4j21hc0u0tiz";
-bodyBgs[7] = "https://ws3.sinaimg.cn/large/9660f996gy1frcyg1j2nfj21hc0u0qoq";
-bodyBgs[8] = "https://ws3.sinaimg.cn/large/9660f996gy1frbrj7t9p9j21hc0u0q66";
-bodyBgs[9] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0l5gfawj21hc0u07p3";
-bodyBgs[10] = "https://ws3.sinaimg.cn/large/9660f996gy1frbql45skhj21hc0u078g";
-bodyBgs[11] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0gv4tj9j21hc0xcqv5";
-bodyBgs[12] = "https://ws3.sinaimg.cn/large/9660f996gy1frbql6x8u0j21hc0u0gor";
-bodyBgs[13] = "https://ws3.sinaimg.cn/large/9660f996gy1frbqld3dm8j21hc0u078f";
-bodyBgs[14] = "https://ws3.sinaimg.cn/large/9660f996gy1frbqla2pyrj21hc0u0n3m";
-bodyBgs[15] = "https://ws3.sinaimg.cn/large/9660f996gy1frd12p3kugj21hc0u0hax";
-bodyBgs[16] = "https://ws3.sinaimg.cn/large/9660f996gy1frbql7sjtbj21hc0u0wjw";
-bodyBgs[17] = "https://ws3.sinaimg.cn/large/9660f996gy1frbql5fsalj21hc0u0gsg";
-bodyBgs[18] = "https://ws3.sinaimg.cn/large/9660f996gy1frd14o6rrgj21hc0u07j4";
-bodyBgs[19] = "https://ws3.sinaimg.cn/large/9660f996gy1frd0k83jp3j21hc0u04mp";
+
+
 //您可以继续增加图片，格式可参考上面的
-var randomBgIndex = Math.round( Math.random() * 20); //删减图片后记得修改这个数字为真实的图片数量
-document.write('<style>body{background:url(' + bodyBgs[randomBgIndex] + ') no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}</style>');
+var randomBgIndex = Math.round( Math.random() * 2); //删减图片后记得修改这个数字为真实的图片数量
+document.write('<style>body{background:url("assets/img/img'+ randomBgIndex +'.jpg") no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}</style>');
 </script>
 </html>
